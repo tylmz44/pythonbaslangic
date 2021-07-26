@@ -3,3 +3,13 @@ while sayi<100: # bitirme şartı
     print("sayi yüzden küçük")
     sayi+=1 #arttırma koşulu
     *ekrana 100 defa sayi yuzden kucuk basar*
+    
+    for i in "yilmaz": #i degeri her  dönmede bir harfi alır ve ekrana basar
+    print(i)
+*harfleri tek tek ekrana yazar*
+y
+i
+l
+m
+a
+z
