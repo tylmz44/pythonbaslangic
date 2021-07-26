@@ -1,0 +1,5 @@
+sayi=0 #başlangıç koşulu
+while sayi<100: # bitirme şartı
+    print("sayi yüzden küçük")
+    sayi+=1 #arttırma koşulu
+    *ekrana 100 defa sayi yuzden kucuk basar*
